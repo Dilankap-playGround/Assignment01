@@ -12,7 +12,6 @@ public class Demo6task_c {
         final String RESET="\033[2;0m";
 
         String city1=" Los Angeles ";
-        String city2=COLOUR4+" NEW"+RESET+" York ";
         String city2FirstPart=" NEW";
         String citry2SecondPart=" York ";
         String state1=" California ";
